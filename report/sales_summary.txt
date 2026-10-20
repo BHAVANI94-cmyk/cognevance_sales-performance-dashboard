@@ -1,0 +1,6 @@
+SALES PERFORMANCE SUMMARY
+Total Sales: 2,296,195.59
+Total Profit: 286,241.42
+Total Quantity: 37,820
+Average Discount: 15.63%
+Profit Margin: 12.47%
