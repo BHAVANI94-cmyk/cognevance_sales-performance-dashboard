@@ -10,3 +10,8 @@ This project presents a Sales Performance Dashboard created using Power BI.
 - Power BI
 - Data Visualization
 - Sales Data Analysis
+# Sales Performance Dashboard
+
+## Dashboard Preview
+
+![Sales Dashboard](dashboard/Sales_Dashboard.png)
